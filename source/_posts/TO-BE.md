@@ -1,6 +1,7 @@
 title: TO BE
 date: 2007-11-18 21:18:59
 tags: [Japanese, Memory, Kids]
+categories: "にっぽん"
 ---
 # TO BE 
 
