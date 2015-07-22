@@ -71,3 +71,9 @@ deploy:
   type: git
   repo: https://github.com/noir1/noir1.github.io.git
   branch: master
+  
+plugins:
+- hexo-generator-feed
+
+plugins:
+- hexo-generator-sitemap
