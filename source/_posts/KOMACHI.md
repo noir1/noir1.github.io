@@ -6,14 +6,13 @@ categories: "にっぽん"
 &#160;Dimming in the tedious drizzle which had been couching in Hēankyō (now called Kyōto) for days, she murmured in an elegant but sad tone about her graceful yet short youth compared with the color of flowers waving in the rain.
 
 
-> <div align=right><font size="2"> 花の色は うつりにけりな いたづらに
-> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;わが身世にふる ながめせしまに </font></center></div>
-
-> <div align=right><font size="2">“Color of flower
+<blockquote class="blockquote-center">花の色は うつりにけりな いたづらに
+わが身世にふる ながめせしまに
+“Color of flower
 faded in the vain’nd 
 So is my body
 Wet while taking a sight” 
-(translated by writer)</div>
+(translated by writer)</blockquote>
 
 &#160;She is Ono no Komachi, said to be a concubine of Emperor Ninmyō and noted for her invincible beauty and Waka (Japanese verse) about passionate love with finesse, saturnity and lusciousness, which are collected in "Man Yō Shū", the most antique collectanea, editted from late 700AD to late 800AD.
 
