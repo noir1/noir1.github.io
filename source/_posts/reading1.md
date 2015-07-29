@@ -2,9 +2,7 @@ title: 通勤閱讀 其一
 date: 2015-07-29 22:12:35
 tags: [Japanese, Reading, Culture, Snake, Virgin]
 categories: 繙読
-description: 通勤読書の趣きをてんてん記す。
 ---
-
 
 「日本＜聖女＞論序説」ー斎宮・女将・中将姫
 <blockquote class="blockquote-center">
@@ -20,7 +18,9 @@ Apr-1996</blockquote>
 [^1]: 皇大神宮（内宮）と豊受大神宮（外宮）からなる。正式名称は神宮.皇居の祭祀する最高の存在として社格を超越するものとされた。伊勢大神宮。
 [^2]: 崇神天皇の皇女。書紀により，崇神六年に天照大神を倭の笠縫邑にまつったという。斎宮の始めとされる。
 [^3]: 後醍醐天皇の皇女。
+
 ----------
+
 「蛇」ー日本の蛇信仰
 <blockquote class="blockquote-center">
 ![蛇](http://noir1.github.io/images/hebi.jpg "Hebi")
