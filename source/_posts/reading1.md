@@ -2,6 +2,7 @@ title: 通勤閱讀 其一
 date: 2015-07-29 22:12:35
 tags: [Japanese, Reading, Culture, Snake, Virgin]
 categories: 繙読
+thumbnailImage: IMG_0928.jpg
 ---
 
 「日本＜聖女＞論序説」ー斎宮・女将・中将姫
