@@ -25,19 +25,19 @@ sidebar:
             icon: desktop
         categories:
             title: Categories
-            url: /categories
+            url: /all-categories
             icon: bookmark
         tags:
             title: Tags
-            url: /tags
+            url: /all-tags
             icon: tree
         archives:
             title: Archives
-            url: /archives
+            url: /all-archives
             icon: folder-open
         search:
             title: Search
-            url: /#search
+            url: /search
             icon: paper-plane
             # `st-search-show-outputs` classes are used to open swiftype search window
             class: st-search-show-outputs
