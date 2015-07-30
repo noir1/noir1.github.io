@@ -22,7 +22,7 @@ sidebar:
         home:
             title: Home
             url: /
-            icon: home
+            icon: desktop
         categories:
             title: Categories
             url: /categories
@@ -30,21 +30,21 @@ sidebar:
         tags:
             title: Tags
             url: /tags
-            icon: tags
+            icon: tree
         archives:
             title: Archives
             url: /archives
-            icon: archive
+            icon: folder-open
         search:
             title: Search
             url: /#search
-            icon: search
+            icon: paper-plan
             # `st-search-show-outputs` classes are used to open swiftype search window
             class: st-search-show-outputs
         about:
             title: About me
             url: /about
-            icon: question
+            icon: male
     author_links:
         # github:
         #     title: GitHub
