@@ -120,7 +120,7 @@ toc_title: Table of contents
 # Display thumbnail image of each post on index pages (false: disabled, true: enabled)
 thumbnail_image: true
 # Message displayed after the <!-- more --> comment
-read_more_message: Expand reading
+#read_more_message: Expand reading
 # Message displayed after the <!-- more --> comment or after 300 characters for post with link layout
 go_to_message: Go to the website
 # Your blog cover picture located in folder `source/_images/` (development) or in `source/assets/images/` (production)
