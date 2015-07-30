@@ -2,7 +2,7 @@ title: WAITING UP
 date: 2010-10-13 22:13:59
 tags: [Japanese, Culture, Haiku]
 categories: "にっぽん"
-thumbnailImage: IMG_1683.jpg
+thumbnailImage: IMG_1683.png
 ---
 
 <center>今来むと　言ひしばかりに　長月の

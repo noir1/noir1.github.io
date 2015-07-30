@@ -2,7 +2,7 @@ title: "INTRO – TURN-UPS"
 date: 2007-11-08 20:40:14
 tags: [Japanese, Memory, Vincent, Intro, Turn-ups] 
 categories: "にっぽん"
-thumbnailImage: IMG_0104.jpg
+thumbnailImage: IMG_0104.png
 ---
 
 # INTRO – TURN-UPS
