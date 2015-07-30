@@ -58,10 +58,10 @@ sidebar:
              title: Twitter
              url: https://twitter.com/tjjtds11
              icon: twitter
-         douban:
-             title: Dou-ban
-             url: https://www.douban.com/wardom
-             icon: douban
+         # douban:
+             # title: Dou-ban
+             # url: https://www.douban.com/wardom
+             # icon: douban
         # google_plus:
         #     title: Google +
         #     url: https://plus.google.com/
@@ -94,15 +94,15 @@ header:
 author:
     email:
     # Your biography (Markdown and HTML supported)
-    bio:
-    job:
-    location:
+    bio: INERT
+    job: Employee
+    location: Peking
     # Your profile picture located in folder `source/_images/` (development)
     # or in `source/assets/images/` (production).
     # Overwritten by your gravatar image if `gravatar_image` is enabled
-    picture:
+    picture: source/assets/images/baisir.jpg
     # Your Twitter username without the @. E.g : `tranquilpeak`
-    twitter:
+    twitter: tjjtds11
     # Your google plus profile id. E.g : `+Tranquilpeak` or `123812884128439`
     google_plus:
 
