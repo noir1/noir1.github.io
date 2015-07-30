@@ -2,7 +2,7 @@ title: KOMACHI
 date: 2008-07-11 21:41:46
 tags: [Japanese, Memory, Komachi, Lady, Haiku, Lover]
 categories: "にっぽん"
-thumbnailImage: IMG_0945.jpg
+thumbnailImage: img.jpg
 ---
 &#160;Dimming in the tedious drizzle which had been couching in Hēankyō (now called Kyōto) for days, she murmured in an elegant but sad tone about her graceful yet short youth compared with the color of flowers waving in the rain.
 
