@@ -120,7 +120,7 @@ toc_title: Table of contents
 # Display thumbnail image of each post on index pages (false: disabled, true: enabled)
 thumbnail_image: true
 # Message displayed after the <!-- more --> comment
-read_more_message: Continue reading
+read_more_message: Expand reading
 # Message displayed after the <!-- more --> comment or after 300 characters for post with link layout
 go_to_message: Go to the website
 # Your blog cover picture located in folder `source/_images/` (development) or in `source/assets/images/` (production)
@@ -136,14 +136,14 @@ tag_pagination: true
 
 # Integrated services
 # Your Disqus shortname
-disqus_shortname:
+# disqus_shortname:
 # Your Google analystics web property ID : UA-XXXXX-X
-google_analytics_id:
+# google_analytics_id:
 # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-gravatar_email:
+# gravatar_email:
 # Your swiftype install key
 swiftype_install_key: 55afd4ec827a66b1bf000001
 # Your Facebook user ids used to connect your blog with your facebook user accounts (Facebook Insights). Separate ids with comma. e.g : 9830047,1003342
-fb_admin_ids:
+# fb_admin_ids:
 # Your Facebook app id used to connect your blog with your facebook app account (Facebook Insights). E.g : 9841307
-fb_app_id:
+# fb_app_id:
