@@ -25,15 +25,15 @@ sidebar:
             icon: home
         categories:
             title: Categories
-            url: /all-categories
+            url: /categories
             icon: bookmark
         tags:
             title: Tags
-            url: /all-tags
+            url: /tags
             icon: tags
         archives:
             title: Archives
-            url: /all-archives
+            url: /archives
             icon: archive
         search:
             title: Search
@@ -43,7 +43,7 @@ sidebar:
             class: st-search-show-outputs
         about:
             title: About me
-            url: /#about
+            url: /about
             icon: question
     author_links:
         # github:
@@ -54,14 +54,14 @@ sidebar:
         #     title: Stack Overflow
         #     url: http://stackoverflow.com/users/
         #     icon: stack-overflow
-        # twitter:
-        #     title: Twitter
-        #     url: https://twitter.com/
-        #     icon: twitter
-        # facebook:
-        #     title: Facebook
-        #     url: https://www.facebook.com/
-        #     icon: facebook
+        twitter:
+             title: Twitter
+             url: https://twitter.com/tjjtds11
+             icon: twitter
+         douban:
+             title: Dou-ban
+             url: https://www.douban.com/wardom
+             icon: douban
         # google_plus:
         #     title: Google +
         #     url: https://plus.google.com/
