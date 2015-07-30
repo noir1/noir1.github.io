@@ -2,7 +2,7 @@ title: COVERT
 date: 2007-11-09 21:13:52
 tags: [Japanese, Memory, Vincent, Woman, Wedding]
 categories: "にっぽん"
-thumbnailImage: IMG_0774.png
+thumbnailImage: IMG_0774.jpg
 ---
 #COVERT
 
