@@ -43,7 +43,7 @@ thumbnailImage: img.jpg
 
  It was absolutely worthy of my ground transportations and 2 day stay at TJ! Funny! Burst into laughter! 
 
-<center> ![Repartee](http://noir1.github.io/images/Repartee.jpg "rolling on the floor")</center>
+<center> ![Repartee](http://noir1.github.io/images/repartee.jpg "rolling on the floor")</center>
  
 ### Porcelain House
 
