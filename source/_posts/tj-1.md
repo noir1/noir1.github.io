@@ -37,15 +37,15 @@ thumbnailImage: img.jpg
 
  We had lunch at Tianjin No.1 Restaurant. Forest, a northwestern toughie, ordered a table of carbohydrates. TJ was famous for fresh seafood, and daily dishes were likely seasoned with small shrimp rather than MSG. Generally it was heavily flavoured and if you preferred to a fishy taste please tried some TJ food out.
  
-<center> ![Lunch](http://noir1.github.io/images/lunch.jpg "Pork dish with pancake")</center>
+<center> ![Lunch](http://noir1.github.io/images/lunch.jpg)</center>
  
 ### Talk show/Repartee 
 
  It was absolutely worthy of my ground transportations and 2 day stay at TJ! Funny! Burst into laughter! 
 
-<center> ![Repartee](http://noir1.github.io/images/repartee.jpg "rolling on the floor")</center>
+<center> ![Repartee](http://noir1.github.io/images/repartee.jpg)</center>
  
 ### Porcelain House
 
  I would leave no comment here. I, WTF, was scared at the entrance of the house. I bet it was haunted at night! 
- <center> ![house](http://noir1.github.io/images/house.jpg "Scary")</center>
+ <center> ![house](http://noir1.github.io/images/house.jpg)</center>
