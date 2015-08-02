@@ -37,7 +37,7 @@ thumbnailImage: img.jpg
 
  We had lunch at Tianjin No.1 Restaurant. Forest, a northwestern toughie, ordered a table of carbohydrates. TJ was famous for fresh seafood, and daily dishes were likely seasoned with small shrimp rather than MSG. Generally it was heavily flavoured and if you preferred to a fishy taste please tried some TJ food out.
  
-<center> ![Lunch](http://noir1.github.io/images/lunch.jpg)</center>
+![Lunch](http://noir1.github.io/images/lunch.jpg)
  
 ### Talk show/Repartee 
 
