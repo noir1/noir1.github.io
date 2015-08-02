@@ -47,5 +47,5 @@ thumbnailImage: img.jpg
  
 ### Porcelain House
 
- I would leave no comment here. I, WTF, was scared at the entrance of the house. I bet it was haunted at night!! 
+ I would leave no comment here. I, WTF, was scared at the entrance of the house. I bet it was haunted at night! 
  <center> ![house](http://noir1.github.io/images/house.jpg "Scary")</center>
