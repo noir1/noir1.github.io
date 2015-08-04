@@ -4,20 +4,20 @@ tags: [Japanese, Reading, Haruki, Murakami, short, stories ]
 categories: 繙読
 thumbnailImage: img.jpg
 ---
-<center>
+
 > `めくらやなぎと眠る女`
 
- ![めくらやなぎと眠る女](http://noir1.github.io/images/sleep.jpg "Blind willow, sleeping woman")
- ![ISBN9784103534242](http://noir1.github.io/images/sleepbar.png)
+<center> ![めくらやなぎと眠る女](http://noir1.github.io/images/sleep.jpg "Blind willow, sleeping woman")</center>
+<center> ![ISBN9784103534242](http://noir1.github.io/images/sleepbar.png)</center>
 
 > `象の消滅`
 
- ![象の消滅](http://noir1.github.io/images/elephant.jpg "The elephant vanishes")
- ![ISBN9784103534167](http://noir1.github.io/images/elephantbar.png)
+<center> ![象の消滅](http://noir1.github.io/images/elephant.jpg "The elephant vanishes")</center>
+<center> ![ISBN9784103534167](http://noir1.github.io/images/elephantbar.png)</center>
 
- **村上春樹　著**
- **新潮社**
-</center>
+<center> **村上春樹　著**</center>
+<center> **新潮社**</center>
+
 ``` 
 若いうち村上を読んでな。年配となちゃうとあざ笑うしか漏らないよ。
 ジャズを聞いてな。セックスしないうちにタバコを吸うのおかず。
