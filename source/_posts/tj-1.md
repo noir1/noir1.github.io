@@ -1,11 +1,11 @@
-title: "Tianjin - 1"
+title: "Tianjin"
 date: 2015-08-02 20:11:05
 tags: [Tianjin, Trip, Forest, Larry, David, Vincent]
 categories: "籟風"
 thumbnailImage: img.jpg
 ---
 
-##Day 1
+## 天津之旅
 ### By train
 
  Although planned to meet at Peking South Station (SouS) before 9a.m. with Forest and Larry, I still insisted in hurrying David up early in the morning. I had almost packed up, while Dave was still under shower. I went to TJ two days ago for business, and thus had a rough idea of the tube route, where was a transition and which was the shortcut. I chose a tote bag for casual, and suggested Dav my Yoshida Porter shoulder bag for holding.
@@ -49,3 +49,9 @@ thumbnailImage: img.jpg
 
  I would leave no comment here. I, WTF, was scared at the entrance of the house. I bet it was haunted at night! 
  <center> ![house](http://noir1.github.io/images/house.jpg)</center>
+ 
+### Memo
+
+ @Forest: Strongly suggest on bringing Loxonin® and Imodium® for contingency.
+
+
