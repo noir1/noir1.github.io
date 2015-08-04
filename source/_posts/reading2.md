@@ -6,17 +6,17 @@ thumbnailImage: img.jpg
 ---
 
 > `めくらやなぎと眠る女`
->
-> ![めくらやなぎと眠る女](http://noir1.github.io/images/sleep.jpg "Blind willow, sleeping woman")
-> ![ISBN9784103534242](http://noir1.github.io/images/sleepbar.png)
->
+
+ ![めくらやなぎと眠る女](http://noir1.github.io/images/sleep.jpg "Blind willow, sleeping woman")
+ ![ISBN9784103534242](http://noir1.github.io/images/sleepbar.png)
+
 > `象の消滅`
->
-> ![象の消滅](http://noir1.github.io/images/elephant.jpg "The elephant vanishes")
-> ![ISBN9784103534167](http://noir1.github.io/images/elephantbar.png)
->
-> 村上春樹　著
-> 新潮社
+
+ ![象の消滅](http://noir1.github.io/images/elephant.jpg "The elephant vanishes")
+ ![ISBN9784103534167](http://noir1.github.io/images/elephantbar.png)
+
+ **村上春樹　著**
+ **新潮社**
 
 ``` 
 若いうち村上を読んでな。年配となちゃうとあざ笑うしか漏らないよ。
