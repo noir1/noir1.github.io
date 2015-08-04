@@ -1,4 +1,4 @@
-title: 通勤閱讀 其一
+title: 通勤閱讀 其壹
 date: 2015-07-29 22:12:35
 tags: [Japanese, Reading, Culture, Snake, Virgin]
 categories: 繙読
