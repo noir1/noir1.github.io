@@ -5,7 +5,7 @@
   <subtitle><![CDATA[廬を結ぶ人境に在り、爾し車馬の喧し無し。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://noir1.github.io//"/>
-  <updated>2015-08-04T13:55:40.000Z</updated>
+  <updated>2015-08-04T14:42:49.000Z</updated>
   <id>http://noir1.github.io//</id>
   
   <author>
@@ -14,6 +14,43 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[通勤閱讀 其貳]]></title>
+    <link href="http://noir1.github.io/2015/08/04/reading2/"/>
+    <id>http://noir1.github.io/2015/08/04/reading2/</id>
+    <published>2015-08-04T14:02:17.000Z</published>
+    <updated>2015-08-04T14:42:49.000Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p><code>めくらやなぎと眠る女</code></p>
+<p><img src="http://noir1.github.io/images/sleep.jpg" alt="めくらやなぎと眠る女" title="Blind willow, sleeping woman"><br><img src="http://noir1.github.io/images/sleepbar.png" alt="ISBN9784103534242"></p>
+<p><code>象の消滅</code></p>
+<p><img src="http://noir1.github.io/images/elephant.jpg" alt="象の消滅" title="The elephant vanishes"><br><img src="http://noir1.github.io/images/elephantbar.png" alt="ISBN9784103534167"></p>
+<p>村上春樹　著<br>新潮社</p>
+</blockquote>
+<figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">若いうち村上を読んでな。年配となちゃうとあざ笑うしか漏らないよ。</span><br><span class="line">ジャズを聞いてな。セックスしないうちにタバコを吸うのおかず。</span><br><span class="line">図書館と病院で午後を過ごしてな。誰か知らないうちに後で死ぬかも。</span><br><span class="line">チョコレートのお箱、指舐める、誰かの彼女。</span><br></pre></td></tr></table></figure>
+]]></content>
+    <summary type="html">
+    <![CDATA[<blockquote>
+<p><code>めくらやなぎと眠る女</code></p>
+<p><img src="http://noir1.github.io/images/sleep.jpg" alt="めくらやなぎと眠る女" title="Blind willow, slee]]>
+    </summary>
+    
+      <category term="Haruki" scheme="http://noir1.github.io/tags/Haruki/"/>
+    
+      <category term="Japanese" scheme="http://noir1.github.io/tags/Japanese/"/>
+    
+      <category term="Murakami" scheme="http://noir1.github.io/tags/Murakami/"/>
+    
+      <category term="Reading" scheme="http://noir1.github.io/tags/Reading/"/>
+    
+      <category term="short" scheme="http://noir1.github.io/tags/short/"/>
+    
+      <category term="stories" scheme="http://noir1.github.io/tags/stories/"/>
+    
+      <category term="繙読" scheme="http://noir1.github.io/categories/%E7%B9%99%E8%AA%AD/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Tianjin]]></title>
@@ -64,11 +101,11 @@
   </entry>
   
   <entry>
-    <title><![CDATA[通勤閱讀 其一]]></title>
+    <title><![CDATA[通勤閱讀 其壹]]></title>
     <link href="http://noir1.github.io/2015/07/29/reading1/"/>
     <id>http://noir1.github.io/2015/07/29/reading1/</id>
     <published>2015-07-29T14:12:35.000Z</published>
-    <updated>2015-07-31T22:44:56.000Z</updated>
+    <updated>2015-08-04T14:31:45.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>「日本＜聖女＞論序説」ー斎宮・女将・中将姫</p>
 <p><img src="http://noir1.github.io/images/seijo.jpg" alt="聖女" title="Seijo"><br><img src="http://noir1.github.io/images/seijobar.jpg" alt="ISBN978-4-06-292011-7" title="Seijo-Barcode"><br>田中　貴子　著<br>講談社　学術文庫<br>Apr-1996 </p>
