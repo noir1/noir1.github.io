@@ -10,4 +10,4 @@ thumbnailImage: img.jpg
 <center><script type="text/javascript" src="http://www.xiami.com/widget/player-single?uid=0&sid=1768944777&mode=js"></script></center>
 
 
-<p text-align:right> ![Qin-Hai-Hu](http://noir1.github.io/images/signature.png)</p>
+<center> ![Qin-Hai-Hu](http://noir1.github.io/images/signature.png)</center>

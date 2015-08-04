@@ -10,3 +10,6 @@ thumbnailImage: img.jpg
 “I’m coming soon, said you
 Wait’in this, however, long September night
 comes the moon at breaking dawn."
+
+
+<center> ![Qin-Hai-Hu](http://noir1.github.io/images/signature.png)</center>

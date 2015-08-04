@@ -16,3 +16,6 @@ thumbnailImage: img.jpg
 &#160; The night relaxation belongs to the one hide in daytime. Yes,obviously, SOME ONES hide themselves in night. They show up in daytime and whenever and wherever their night active partners are not. That is the confidential Japanese wife…
 
 ###–To be continued–
+
+
+<center> ![Qin-Hai-Hu](http://noir1.github.io/images/signature.png)</center>

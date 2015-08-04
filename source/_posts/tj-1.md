@@ -55,3 +55,5 @@ thumbnailImage: img.jpg
  @Forest: Strongly suggest on bringing Loxonin® and Imodium® for contingency.
 
 
+<center> ![Qin-Hai-Hu](http://noir1.github.io/images/signature.png)</center>
+

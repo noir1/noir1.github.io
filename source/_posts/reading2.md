@@ -25,3 +25,5 @@ thumbnailImage: img.jpg
 チョコレートのお箱、指舐める、誰かの彼女。
 ```
 
+
+<center> ![Qin-Hai-Hu](http://noir1.github.io/images/signature.png)</center>

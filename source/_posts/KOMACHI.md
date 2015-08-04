@@ -29,3 +29,6 @@ Wet while taking a sight”
 
 ### –To be continued–
 ###### <center> 汝ら、目を逸らすことをならん
+
+
+<center> ![Qin-Hai-Hu](http://noir1.github.io/images/signature.png)</center>

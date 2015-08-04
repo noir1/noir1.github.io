@@ -18,3 +18,6 @@ thumbnailImage: img.jpg
  
  
 ###–To be continued– 
+
+
+<center> ![Qin-Hai-Hu](http://noir1.github.io/images/signature.png)</center>
