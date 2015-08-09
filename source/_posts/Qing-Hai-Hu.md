@@ -4,9 +4,10 @@ tags: [Mogolian, HAYA, DaiQingTaNa, QingHaiHu]
 Categories: μ時区
 thumbnailImage: img.jpg
 ---
-<center><img src="http://noir1.github.io/images/qhh.png"　width="35%" height="35%"/)</center>
+<center>
+<img src="http://noir1.github.io/images/qhh.png" style="zoom:0.5;")
+</center>
 ---
-
 <center><script type="text/javascript" src="http://www.xiami.com/widget/player-single?uid=0&sid=1768944777&mode=js"></script></center>
 
 
