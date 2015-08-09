@@ -4,6 +4,9 @@ tags: [Japanese, Reading, Haruki, Murakami, short, stories ]
 categories: 繙読
 thumbnailImage: img.jpg
 ---
+<div align=center>
+<iframe scrolling="value" src="http://noir1.github.io/list/Reading2.html/index.html" width=90% height=220px frameborder="0" scrolling="yes"></iframe>
+</div>
 
 > `めくらやなぎと眠る女`
 
